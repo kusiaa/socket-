@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\yes\Desktop\test1\Project1\源.cpp(25,23): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\yes\Desktop\test1\Project1\源.cpp(49,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yes\Desktop\test1\Project1\源.cpp(132,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yes\Desktop\test1\Project1\源.cpp(133,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yes\Desktop\test1\Project1\源.cpp(146,77): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\yes\Desktop\test1\Project1\x64\Debug\Project1.exe
